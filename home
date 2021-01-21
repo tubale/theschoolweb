@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+    <title> The School Web </title>
+    <link rel="shortcut icon" href="https://github.com/tubale/PcBuilding/blob/master/Gaming-Computer-Transparent-Background.png?raw=true"/>
+    <link rel="stylesheet" href="stylesheet.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  </head>
+
+
+  </style>
+  <body>
+     <div class="navbar">
+      <a href="https://tubale.github.io/PcBuilding/home.html"> Home </a>
+      <a href="https://tubale.github.io/PcBuilding/parts.html"> Parts </a>
+      <a href="https://tubale.github.io/Tanayportfolio/dailylife.html"> Instructions</a>
+      <a href="https://tubale.github.io/Tanayportfolio/contact.html"><span class="glyphicon glyphicon-envelope"></span> Contact Me </a></li> 
+    </div>
+<div class="container">
+      <div class="jumbotron">
+        <h1>How to make a PC </h1>
+      </div>
+    </div>    
+           <p class="hometocenter"> PC building is varily easy if you know what you are doing. It does require many parts, but it take about 3 hours. In this website you will learn how to make a PC from start to finish. 
+
+</p>
+  
+                 
+    <br>
+           
+    
+    <div class="container">
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+           <div class="item active">
+              <img src="https://github.com/tubale/PcBuilding/blob/master/Gaming-Computer-Transparent-Background.png?raw=true" alt="Pic1" style="width:100%;">
+           </div>
+           <div class="item">
+              <img src="https://github.com/tubale/PcBuilding/blob/master/gaming%20pc%202.jpg?raw=true" alt="Pic2" style="width:100%;">
+           </div>
+           <div class="item">
+              <img src="https://github.com/tubale/PcBuilding/blob/master/gaming%20pc%203.jpg?raw=true" alt="Pic3" style="width:100%;">
+           </div>
+        </div>
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+     </div>
+    </div>  
+   <div id="google_translate_element"  style="float:right; position:relative; left: -50%;"></div>
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+      }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    
+            
+  </body>  
+                    
+</html>
