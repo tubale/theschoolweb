@@ -1,0 +1,72 @@
+.navbar {
+  overflow: hidden;
+  background-color: #50AFAB;
+}
+.navbar a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 14px;
+  text decoration: none;
+  font-size: 20 px;
+}
+
+.hometocenter {
+text-align: center
+}
+
+.jumbotron {
+  margin-top: 20px;
+  background-size: cover;
+  background-color: #11939C;
+}
+h1 {
+  border-bottom: 5px dotted red;
+  -webkit-animation:colorchange 5s infinite alternate;
+}
+
+@-webkit-keyframes colorchange{
+  0% {
+    color: FFD400;
+  }
+  20% {
+    color: 00FF63;
+  }
+   40% {
+     color: blue;
+  }
+  60% {
+    color: 0040FF;
+  }
+  80% {
+    color: purple;
+  }
+  100% {
+    color: green:
+}
+
+h3 {
+  border-bottom: 5px dotted red;
+  -webkit-animation:colorchange 5s infinite alternate;
+}
+
+@-webkit-keyframes colorchange{
+  0% {
+    color: FFD400;
+  }
+  20% {
+    color: 00FF63;
+  }
+   40% {
+     color: blue;
+  }
+  60% {
+    color: 0040FF;
+  }
+  80% {
+    color: purple;
+  }
+  100% {
+    color: green:
+  }
+}
